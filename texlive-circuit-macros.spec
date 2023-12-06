@@ -1,6 +1,6 @@
 Name:		texlive-circuit-macros
-Version:	65149
-Release:	2
+Version:	68264
+Release:	1
 Summary:	M4 macros for electric circuit diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/circuit-macros
