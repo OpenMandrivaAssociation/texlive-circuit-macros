@@ -1,5 +1,5 @@
 Name:		texlive-circuit-macros
-Version:	69263
+Version:	71389
 Release:	1
 Summary:	M4 macros for electric circuit diagrams
 Group:		Publishing
