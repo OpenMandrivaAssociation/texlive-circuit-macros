@@ -3,7 +3,7 @@ Version:	71389
 Release:	1
 Summary:	M4 macros for electric circuit diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/circuit-macros
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/circuit-macros
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/circuit-macros.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/circuit-macros.doc.r%{version}.tar.xz
